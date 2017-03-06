@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Saved from kafka consumer</comment>
+<entry key="key.deserializer">org.apache.kafka.common.serialization.StringDeserializer</entry>
+<entry key="auto.offset.reset">earliest</entry>
+<entry key="auto.commit.interval.ms">1000</entry>
+<entry key="bootstrap.servers">localhost:9092</entry>
+<entry key="group.id">1b027d07-f6e2-4154-8ba8-5bfb5ed38d56</entry>
+<entry key="enable.auto.commit">true</entry>
+<entry key="value.deserializer">org.apache.kafka.common.serialization.StringDeserializer</entry>
+<entry key="session.timeout.ms">30000</entry>
+</properties>
